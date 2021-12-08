@@ -1,0 +1,45 @@
+.child{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.digit{
+        
+        width: 25px;
+        height: 30px;
+        left: 1015px;
+        top: 759px;
+        font-family: Lato;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 11px;
+        line-height: 30px;
+        margin-right: 10px;
+        display: flex;
+        align-items: center;
+        color: #EEEEEE;
+    }
+.heading{
+    margin-top: 20px;
+}
+.label-storage{
+    height: 16px;
+    left: 846px;
+    top: 806px;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    display: flex;
+    align-items: center;
+    color: #EEEEEE;
+
+}
+.label-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+    
+
+}

@@ -1,0 +1,89 @@
+.App {
+  width: 276px;
+  height: 297px;
+  left: 791px;
+  top: 615px;
+  padding-left: 10px;
+  padding-right: 10px;
+  background: linear-gradient(180deg, #211D32 0%, rgba(51, 41, 64, 0) 100%);
+  border: 1.5px solid rgba(249, 249, 249, 0.1);
+  box-shadow: 0px 3px 5px 2px rgba(0, 0, 0, 0.25);
+  border-radius: 12px;
+  background-color: #1F1F1F;
+  margin-top: 511px;
+  margin-left: 695px;
+
+    
+
+}
+
+
+.heading{
+  
+  
+  width: 127px;
+  height: 30px;
+  left: 808px;
+  top: 619px;
+
+  font-family: Lato;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 30px;
+  display: flex;
+  align-items: center;
+  font-feature-settings: 'pnum' on, 'lnum' on;
+
+  color: #EEEEEE;
+}
+.bar-container{
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: flex-end;
+  margin-top: 30px;
+}
+.total{
+    width: 95px;
+    height: 30px;
+    left: 808px;
+    top: 659px;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 30px;
+    display: flex;
+    align-items: center;
+    font-feature-settings: 'pnum' on, 'lnum' on;
+    color: #EEEEEE;
+}
+.total-value{
+    width: 71px;
+    height: 10px;
+    left: 808px;
+    top: 689px;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 30px;
+    display: flex;
+    align-items: center;
+    color: #EEEEEE;
+    
+
+}
+.dot-container{
+    width: 18px;
+    height: 4px;
+
+    
+}
+.heading-container{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
